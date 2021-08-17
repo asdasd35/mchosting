@@ -2,10 +2,10 @@ const button = document.getElementById('button')
 const toasts = document.getElementById('toasts')
 
 const messages = [
-    'Jelenleg nem elérhető!',
-    'Jelenleg nem elérhető!',
-    'Jelenleg nem elérhető!',
-    'Jelenleg nem elérhető!',
+    'Letöltés elkezdőtött!',
+    'Letöltés elkezdőtött!',
+    'Letöltés elkezdőtött!',
+    'Letöltés elkezdőtött!',
 ]
 
 const types = ['info', 'success', 'error']
